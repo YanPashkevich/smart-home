@@ -1,0 +1,24 @@
+Relays
+
+/1relay_on - 1 relay ON
+/2relay_on - 2 relay ON
+
+/1relay_off - 1 relay OFF
+/2relay_off - 2 relay OFF
+
+/relays_on - 1 и 2 relay ON
+/relays_off - 1 и 2 relay OFF
+
+
+Door opening system
+
+/system_off - system OFF
+/system_on - system ON
+/system_alert - system ALERT
+
+
+Other
+
+/everything_off - everything OFF
+
+/system_state - system_state
