@@ -22,4 +22,6 @@ ___
 #### **A resistor is needed in the circuit, at which the state of the reed switch will be read by NodeMcu V3.0 (depends on the length of the wires to this connected reed switch)**
 
 >**My system did not work at 10 kOhm (R on scheme). System started at 5 kOhm and below**
+
 ![Logo](https://github.com/YanPashkevich/smart-home/blob/master/Scheme.png?raw=true "sheme")
+
